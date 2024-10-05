@@ -1,5 +1,8 @@
 # deepface
 
+conda create --name deepface python=3.9
+conda activate deepface
+
 <div align="center">
 
 [![Downloads](https://static.pepy.tech/personalized-badge/deepface?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/deepface)
